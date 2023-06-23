@@ -1,8 +1,8 @@
 ## smartmove
 
-smartmove is a startup that develops innovative mobility solutions. Our stated goal is to serve the mobility needs of our B2B partners and thus subsequently to guarantee their end customers the best possible experience in connection with multimodal mobility.
+smartmove is a startup that develops innovative mobility solutions. Our stated goal is to serve the mobility needs of our B2B partners and, thus, guarantee their end customers the best possible experience in connection with multimodal mobility.
 
-From time to time we will publish software components on GitHub that we believe solve specific problems and could therefore also be helpful for the open-source community.
+From time to time, we will publish software components on GitHub that solve specific problems and could, therefore, also be helpful for the open-source community.
 
 Let's move smarter into the future!
 <!--
